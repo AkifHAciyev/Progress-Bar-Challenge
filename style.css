@@ -1,0 +1,17 @@
+body {
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	margin-left: 400px;
+	max-width: 400px;
+	width: 100%;
+}
+
+button {
+	width: 70px;
+}
+
+.progress {
+	background-color: rgb(60, 72, 180);
+}
